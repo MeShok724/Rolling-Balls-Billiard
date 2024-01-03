@@ -1,0 +1,12 @@
+Help for the game "Rolling Balls"
+Welcome to the computer game "Rolling Balls".
+This game is designed for 2 players hitting
+a white ball in turn, the winner is the player who scored the most
+balls. If a player scores a white ball, the game
+is considered over and that player loses.
+The further away the cursor is from the white ball, the
+stronger the impact will be, but remember that
+it is accuracy that will bring you victory.
+To close this window and go to menu press Esc.
+Developer - Mikhail Kopytok, 2nd year student
+BSUIR, POIT, gr.251003
